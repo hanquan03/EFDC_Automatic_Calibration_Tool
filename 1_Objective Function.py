@@ -152,7 +152,7 @@ res = predict(values)
 print("1. Estiblise EFDC models and save simulation results")
 
 #######################################################
-# UPGRADE OBJECTIVE FUNCTION
+# UPDATE OBJECTIVE FUNCTION
 # INCLUDING MRE, RMSE, NSE, and R2
 #======================================================
 
