@@ -3,7 +3,7 @@
 
 1) Based on the results of 500 sets EFDC models and the objective function,
    the cumulative probability was calculated;
-2) Upgrade the posterior distribution of EFDC hydrodynamic model parameters;
+2) Update the posterior distribution of EFDC hydrodynamic model parameters;
 3) Plot the posterior distribution for each parameters.
 
 """
@@ -56,7 +56,7 @@ print("1. Prepare data for parameters cumulative probability calculation ")
 
 
 #######################################################
-# UPGRADE POSTERIOR DISTRIBUTION
+# UPDATE POSTERIOR DISTRIBUTION
 #======================================================
 
 os.chdir(r"G:\AHydro_2016\code\Res\\")
